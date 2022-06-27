@@ -1,2 +1,2 @@
 # formacao
-Exemplo de codificacao
+Exemplo de codificacao e de utilizacao do git
